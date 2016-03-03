@@ -18,6 +18,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 #### April
 
 * [K-Tab](http://www.k-tab.com.br/) | **April 4** | Recife
+* [Global Azure BootCamp](http://global.azurebootcamp.net/locations/) | **April 16** | Várias Localidades do Brasil, confira no link a mais próxima de você!
 * [TechParty](http://techparty.faccat.br/) | **April 25-28** | Taquara
 
 #### May
