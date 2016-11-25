@@ -40,6 +40,10 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 
 ### 2017
 
+#### January
+
+* [Campus Party](http://brasil.campus-party.org/) | **January 31-February 05** | Sao Paulo
+
 #### May
 
 * [Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC)](http://sbrc2017.ufpa.br/) | **May 15-19** | Belém
