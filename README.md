@@ -26,6 +26,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [IV Escola Regional de Informática de Goiás](http://erigo.sbc.org.br/) | **November 18-19** | Goiânia
 * [PotiCon - 1ª Conferência Potiguar de Software Livre](http://www.potilivre.org/poticon/) | **November 18-19** | Natal
 * [XIX Brazilian Symposium on Formal Methods](http://sbmf2016.imd.ufrn.br/) | **November 22-25** | Natal
+* [Tech Night in CG](https://www.doity.com.br/tech-night-cg) | **November 25** | Campo Grande
 * [IX Escola Potiguar de Computação e suas Aplicações](http://natal.uern.br/epoca2016/) | **November 23-25** | Natal
 
 #### December
