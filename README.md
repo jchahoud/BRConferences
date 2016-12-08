@@ -1,21 +1,6 @@
-﻿#Conferências e Eventos de Tecnologia e de Startups no Brasil
-##Brazilian Tech and Startup Conferences
+﻿#Conferências e Eventos de Tecnologia e de Startups no Brasil (Brazilian Tech and Startup Conferences)
 
-I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe) - [CocoaConferences](https://github.com/Lascorbe/CocoaConferences) list
-
-### 2016
-
-#### December
-
-* [CocoaHeads Conference 2016](http://cocoaheadsconference.com.br/) | **December 02-03** | Osasco
-* [OpenLabs](http://openlabs.com.br/) | **December 03** | Nova Friburgo
-* [PHP Conference Brasil](http://phpconference.com.br) | **December 07-11** | Osasco
-* [Rails Girls Sao Paulo](http://railsgirls.com/saopaulo) | **December 09-10** | Sao Paulo
-* [Xamarin Dev Days](https://www.meetup.com/pt-BR/Mobile-Brasil/events/235895789/) | **December 10** | São Paulo
-* [Darkmira Tour Community & PHP Com Rapadura](http://community.darkmiratour.rocks/phpcomrapadura/) | **December 16** | Fortaleza
-
-
-### 2017
+## 2017
 
 #### January
 
@@ -25,9 +10,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 
 * [Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC)](http://sbrc2017.ufpa.br/) | **May 15-19** | Belém
 
-## Has already happened...
-
-### 2016
+## 2016
 
 #### January
 
@@ -184,8 +167,16 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [Tech Night in CG](https://www.doity.com.br/tech-night-cg) | **November 25** | Campo Grande
 * [IX Escola Potiguar de Computação e suas Aplicações](http://natal.uern.br/epoca2016/) | **November 23-25** | Natal
 
+#### December
 
-### More
+* [CocoaHeads Conference 2016](http://cocoaheadsconference.com.br/) | **December 02-03** | Osasco
+* [OpenLabs](http://openlabs.com.br/) | **December 03** | Nova Friburgo
+* [PHP Conference Brasil](http://phpconference.com.br) | **December 07-11** | Osasco
+* [Rails Girls Sao Paulo](http://railsgirls.com/saopaulo) | **December 09-10** | Sao Paulo
+* [Xamarin Dev Days](https://www.meetup.com/pt-BR/Mobile-Brasil/events/235895789/) | **December 10** | São Paulo
+* [Darkmira Tour Community & PHP Com Rapadura](http://community.darkmiratour.rocks/phpcomrapadura/) | **December 16** | Fortaleza
+
+## More
 * A [Twitter list](https://twitter.com/jchahoud/lists/brconferences) with all the conferences made by [Juliana Chahoud](https://twitter.com/jchahoud)
 
 If you want to add a conference to this list or edit the info, send a **pull request** or [ping me on twitter](https://twitter.com/jchahoud). Thank you!
