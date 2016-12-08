@@ -11,6 +11,7 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [OpenLabs](http://openlabs.com.br/) | **December 03** | Nova Friburgo
 * [PHP Conference Brasil](http://phpconference.com.br) | **December 07-11** | Osasco
 * [Rails Girls Sao Paulo](http://railsgirls.com/saopaulo) | **December 09-10** | Sao Paulo
+* [Xamarin Dev Days](https://www.meetup.com/pt-BR/Mobile-Brasil/events/235895789/) | **December 10** | São Paulo
 * [Darkmira Tour Community & PHP Com Rapadura](http://community.darkmiratour.rocks/phpcomrapadura/) | **December 16** | Fortaleza
 
 
@@ -183,9 +184,6 @@ I’ve created this list inspired in [Luis Ascorbe](https://twitter.com/lascorbe
 * [Tech Night in CG](https://www.doity.com.br/tech-night-cg) | **November 25** | Campo Grande
 * [IX Escola Potiguar de Computação e suas Aplicações](http://natal.uern.br/epoca2016/) | **November 23-25** | Natal
 
-#### December
-
-* [Xamarin Dev Days](https://www.meetup.com/pt-BR/Mobile-Brasil/events/235895789/) | **December 10** | São Paulo
 
 ### More
 * A [Twitter list](https://twitter.com/jchahoud/lists/brconferences) with all the conferences made by [Juliana Chahoud](https://twitter.com/jchahoud)
