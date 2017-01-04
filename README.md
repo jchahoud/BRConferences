@@ -10,6 +10,12 @@
 
 * [Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC)](http://sbrc2017.ufpa.br/) | **May 15-19** | Belém
 
+#### April
+
+* [Capivara Codes](http://capivara.codes) | **April 01** | Parana
+* [QCon Sao Paulo](http://qconsp.com/) | **April 24-26** | Sao Paulo
+
+
 ## 2016
 
 #### January
