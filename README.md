@@ -15,6 +15,9 @@
 * [Capivara Codes](http://capivara.codes) | **April 01** | Parana
 * [QCon Sao Paulo](http://qconsp.com/) | **April 24-26** | Sao Paulo
 
+#### September
+
+* [DevXperience](http://www.devxperience.com.br/) | **September 01-02** | Sao Paulo
 
 ## 2016
 
