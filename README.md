@@ -6,6 +6,14 @@
 
 * [Campus Party](http://brasil.campus-party.org/) | **January 31-February 05** | Sao Paulo
 
+#### February
+
+* [DevOps Week](http://www.devopsweek.com.br/) | **February 06-12** | Online
+
+#### March
+
+* [PHP Experience](http://phpexperience.imasters.com.br) | **March 27-28** | Sao Paulo
+
 #### May
 
 * [Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC)](http://sbrc2017.ufpa.br/) | **May 15-19** | Belém
