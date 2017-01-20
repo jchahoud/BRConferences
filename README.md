@@ -8,6 +8,7 @@
 
 #### February
 
+* [Tá Safo Em Ação no PCT Guamá - 2017](https://palestrascoletivas.com.br/events/ta-safo-em-acao-no-pct-guama-2017) | **February 04** | Belém
 * [DevOps Week](http://www.devopsweek.com.br/) | **February 06-12** | Online
 
 #### March
