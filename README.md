@@ -16,7 +16,9 @@
 
 #### May
 
+* [The Developers Conference (TDC)](http://www.thedevelopersconference.com.br/) | **May 03-06** | Florianópolis
 * [Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC)](http://sbrc2017.ufpa.br/) | **May 15-19** | Belém
+
 
 #### April
 
