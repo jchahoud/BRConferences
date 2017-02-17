@@ -25,6 +25,10 @@
 * [The Developers Conference (TDC)](http://www.thedevelopersconference.com.br/) | **May 03-06** | Florianópolis
 * [Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC)](http://sbrc2017.ufpa.br/) | **May 15-19** | Belém
 
+#### June
+
+* [JS Experience 2017](https://jsexperience2017.imasters.com.br/) | **June 23** | Sao Paulo
+
 #### September
 
 * [DevXperience](http://www.devxperience.com.br/) | **September 01-02** | Sao Paulo
