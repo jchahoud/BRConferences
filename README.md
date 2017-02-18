@@ -29,6 +29,10 @@
 
 * [JS Experience 2017](https://jsexperience2017.imasters.com.br/) | **June 23** | Sao Paulo
 
+#### July
+
+* [Front in Sampa 2019](http://frontinsampa.com.br/) | **July 1** | Sao Paulo
+
 #### September
 
 * [DevXperience](http://www.devxperience.com.br/) | **September 01-02** | Sao Paulo
