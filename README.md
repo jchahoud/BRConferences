@@ -13,16 +13,20 @@
 
 #### March
 
+* [PHP com Rapadura in CEDRO](https://www.eventbrite.com.br/e/php-com-rapadura-in-cedro-tickets-32143721737) | **March 11** | Fortaleza
+* [3º Encontro de Dev's PHP](http://encontro.phpcomrapadura.org/) | **March 18** | Fortaleza
 * [PHP Experience](http://phpexperience.imasters.com.br) | **March 27-28** | Sao Paulo
 
 #### April
 
 * [Capivara Codes](http://capivara.codes) | **April 01** | Parana
+* [Roadsec 2017 | Fortaleza](http://roadsec.com.br/fortaleza2017/) | **April 08** | Fortaleza
 * [QCon Sao Paulo](http://qconsp.com/) | **April 24-26** | Sao Paulo
 
 #### May
 
 * [The Developers Conference (TDC)](http://www.thedevelopersconference.com.br/) | **May 03-06** | Florianópolis
+* [CEJS 2017](http://www.cejs.com.br/) | **May 13** | Fortaleza
 * [Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC)](http://sbrc2017.ufpa.br/) | **May 15-19** | Belém
 
 #### June
