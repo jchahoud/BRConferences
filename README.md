@@ -13,6 +13,8 @@
 
 #### March
 
+* [Women Tech Day 2017 na IBM](https://www.meetup.com/thinkup/events/237914629/?eventId=237914629) | **March 04** | Sao Paulo
+* [Code in the Dark Brasil](http://www.codeinthedark.com.br/) | **March 10** | Sao Paulo
 * [PHP com Rapadura in CEDRO](https://www.eventbrite.com.br/e/php-com-rapadura-in-cedro-tickets-32143721737) | **March 11** | Fortaleza
 * [3º Encontro de Dev's PHP](http://encontro.phpcomrapadura.org/) | **March 18** | Fortaleza
 * [PHP Experience](http://phpexperience.imasters.com.br) | **March 27-28** | Sao Paulo
@@ -36,6 +38,10 @@
 #### July
 
 * [Front in Sampa 2019](http://frontinsampa.com.br/) | **July 1** | Sao Paulo
+
+#### August
+
+* [Android Dev Conference](http://androidconference.com.br/) | **August 24-25** | Sao Paulo
 
 #### September
 
