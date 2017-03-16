@@ -21,6 +21,7 @@
 
 #### April
 
+* [DevOps Summit Brasil](http://www.devopssummitbrasil.com/) | **March 31 - April 01** | São Paulo
 * [Capivara Codes](http://capivara.codes) | **April 01** | Parana
 * [Roadsec 2017 | Fortaleza](http://roadsec.com.br/fortaleza2017/) | **April 08** | Fortaleza
 * [QCon Sao Paulo](http://qconsp.com/) | **April 24-26** | Sao Paulo
