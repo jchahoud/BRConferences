@@ -1,4 +1,4 @@
-#Conferências e Eventos de Tecnologia e de Startups no Brasil (Brazilian Tech and Startup Conferences)
+# Conferências e Eventos de Tecnologia e de Startups no Brasil (Brazilian Tech and Startup Conferences)
 
 ## 2017
 
@@ -166,7 +166,7 @@
 * [Elixir Day na Quero Educação](https://www.eventbrite.com/e/elixir-day-na-quero-educacao-tickets-28233729846?ref_source=elixirday) | **October 8** | São José dos Campos
 * [Python Brazil](http://2016.pythonbrasil.org.br/) | **October 13-18** | Florianopolis
 * [Web.br 2016 - W3C Brasil](http://conferenciaweb.w3c.br/) | **October 13-14** | Sao Paulo
-* [OxenTI](https://www.eventbrite.com.br/e/oxenti-ifce-maracanau-tickets-27894629588) | **October 13-14** | Maracanaú/CE 
+* [OxenTI](https://www.eventbrite.com.br/e/oxenti-ifce-maracanau-tickets-27894629588) | **October 13-14** | Maracanaú/CE
 * [GDG DevFest Cerrado](http://devfestcerrado.com.br) | **October 15** | Goiania
 * [Hackathon FIESP](http://hotsite.fiesp.com.br/hackathon/) | **October 15-17** | Sao Paulo
 * [Futurecom](http://en.futurecom.com.br/) | **October 16-20** | Sao Paulo
