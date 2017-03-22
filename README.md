@@ -39,7 +39,7 @@
 
 #### July
 
-* [Front in Sampa 2019](http://frontinsampa.com.br/) | **July 1** | Sao Paulo
+* [Front in Sampa 2017](http://frontinsampa.com.br/) | **July 1** | Sao Paulo
 
 #### August
 
