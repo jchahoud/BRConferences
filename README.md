@@ -54,6 +54,11 @@
 
 * [iMasters Intercon](https://intercon2017.imasters.com.br/) | **October 20-21** | Sao Paulo
 
+#### December
+
+* [PHP Conference Brasil 2017](http://www.phpconference.com.br/) | **December 06-10** | Sao Paulo
+
+
 ## 2016
 
 #### January
