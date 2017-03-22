@@ -50,6 +50,10 @@
 * [DevXperience](http://www.devxperience.com.br/) | **September 01-02** | Sao Paulo
 * [THE CONF](http://theconf.club/) | **September 29-30** | Sao Paulo
 
+#### October
+
+* [iMasters Intercon](https://intercon2017.imasters.com.br/) | **October 20-21** | Sao Paulo
+
 ## 2016
 
 #### January
