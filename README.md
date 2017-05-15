@@ -32,6 +32,8 @@
 * [CEJS 2017](http://www.cejs.com.br/) | **May 13** | Fortaleza
 * [Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC)](http://sbrc2017.ufpa.br/) | **May 15-19** | Belém
 * [Security BSides SPv14](https://www.facebook.com/events/1790032051324595/) | **May 20-21** | Sao Paulo
+* [Tech Interior](http://techinterior.com.br) | **May 27** | Jaboticabal
+* [Darkmira Tour](https://php.darkmiratour.rocks/2017/) | **May 27-28** | Brasília
 
 #### June
 
@@ -40,6 +42,8 @@
 #### July
 
 * [Front in Sampa 2017](http://frontinsampa.com.br/) | **July 1** | Sao Paulo
+* [TDC Sao Paulo](http://www.thedevelopersconference.com.br/) | **July 18-22** | Sao Paulo
+
 
 #### August
 
