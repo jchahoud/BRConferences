@@ -43,7 +43,7 @@
 
 #### September
 
-* [BrazilJS Conf Recife](https://braziljs.org/conf/) | **September 01-2** | Recife
+* [BrazilJS Conf Fortaleza](https://braziljs.org/conf/) | **September 01-2** | Fortaleza
 * [DevXperience](http://www.devxperience.com.br/) | **September 01-02** | Sao Paulo
 * [THE CONF](http://theconf.club/) | **September 29-30** | Sao Paulo
 
