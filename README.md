@@ -37,10 +37,19 @@
 
 * [Front in Sampa 2019](http://frontinsampa.com.br/) | **July 1** | Sao Paulo
 
+#### August
+
+* [BrazilJS Conf POA](https://braziljs.org/conf/) | **August 25-26** | Porto Alegre
+
 #### September
 
+* [BrazilJS Conf Recife](https://braziljs.org/conf/) | **September 01-2** | Recife
 * [DevXperience](http://www.devxperience.com.br/) | **September 01-02** | Sao Paulo
 * [THE CONF](http://theconf.club/) | **September 29-30** | Sao Paulo
+
+#### December
+
+* [PHP Conference](http://phpconference.com.br/) | **December 6-10** | São Paulo
 
 ## 2016
 
