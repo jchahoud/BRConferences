@@ -49,8 +49,13 @@
 
 * [Android Dev Conference](http://androidconference.com.br/) | **August 24-25** | Sao Paulo
 
+#### August
+
+* [BrazilJS Conf POA](https://braziljs.org/conf/) | **August 25-26** | Porto Alegre
+
 #### September
 
+* [BrazilJS Conf Fortaleza](https://braziljs.org/conf/) | **September 01-2** | Fortaleza
 * [DevXperience](http://www.devxperience.com.br/) | **September 01-02** | Sao Paulo
 * [THE CONF](http://theconf.club/) | **September 29-30** | Sao Paulo
 
@@ -61,7 +66,6 @@
 #### December
 
 * [PHP Conference Brasil 2017](http://www.phpconference.com.br/) | **December 06-10** | Sao Paulo
-
 
 ## 2016
 
