@@ -38,6 +38,8 @@
 #### June
 
 * [JS Experience 2017](https://jsexperience2017.imasters.com.br/) | **June 23** | Sao Paulo
+* [19º Encontro Locaweb SP](http://eventos.locaweb.com.br/proximos-eventos/19o-encontro-locaweb-sao-paulo/) | **June 28** | Sao Paulo
+
 
 #### July
 
