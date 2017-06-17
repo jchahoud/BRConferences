@@ -40,12 +40,11 @@
 * [JS Experience 2017](https://jsexperience2017.imasters.com.br/) | **June 23** | Sao Paulo
 * [19º Encontro Locaweb SP](http://eventos.locaweb.com.br/proximos-eventos/19o-encontro-locaweb-sao-paulo/) | **June 28** | Sao Paulo
 
-
 #### July
 
 * [Front in Sampa 2017](http://frontinsampa.com.br/) | **July 1** | Sao Paulo
+* [Code in the Dark](http://codeinthedark.com.br) | **July 1** | Sao Paulo
 * [TDC Sao Paulo](http://www.thedevelopersconference.com.br/) | **July 18-22** | Sao Paulo
-
 
 #### August
 
