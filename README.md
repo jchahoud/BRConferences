@@ -63,6 +63,7 @@
 #### October
 
 * [iMasters Intercon](https://intercon2017.imasters.com.br/) | **October 20-21** | Sao Paulo
+* [Web.br 2017](http://conferenciaweb.w3c.br/) | **October 24-25** | Sao Paulo
 
 #### December
 
