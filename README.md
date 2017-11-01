@@ -65,6 +65,10 @@
 * [iMasters Intercon](https://intercon2017.imasters.com.br/) | **October 20-21** | Sao Paulo
 * [Web.br 2017](http://conferenciaweb.w3c.br/) | **October 24-25** | Sao Paulo
 
+#### November
+
+* [DevFest Campinas 2017](https://gdg-campinas.github.io/devfest/) | **November 04** | Campinas
+
 #### December
 
 * [PHP Conference Brasil 2017](http://www.phpconference.com.br/) | **December 06-10** | Sao Paulo
