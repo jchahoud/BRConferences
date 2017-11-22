@@ -49,9 +49,6 @@
 #### August
 
 * [Android Dev Conference](http://androidconference.com.br/) | **August 24-25** | Sao Paulo
-
-#### August
-
 * [BrazilJS Conf POA](https://braziljs.org/conf/) | **August 25-26** | Porto Alegre
 
 #### September
@@ -68,6 +65,7 @@
 #### November
 
 * [DevFest Campinas 2017](https://gdg-campinas.github.io/devfest/) | **November 04** | Campinas
+* [TDC Porto Alegre](http://www.thedevelopersconference.com.br/) | **November 08-11** | Porto Alegre
 
 #### December
 
