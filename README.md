@@ -6,6 +6,13 @@
 
 * [Campus Party](http://brasil.campus-party.org/) | **January 30-February 04** | Sao Paulo
 
+#### March
+
+* [PHP Experience 2018](https://eventos.imasters.com.br/phpexperience) | **March 05-06** | Sao Paulo
+
+#### April
+
+* [Campus Party NATAL](http://brasil.campus-party.org/cpnatal/) | **April 11-15** | Natal
 
 ## 2017
 
