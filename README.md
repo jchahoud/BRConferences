@@ -9,10 +9,21 @@
 #### March
 
 * [PHP Experience 2018](https://eventos.imasters.com.br/phpexperience) | **March 05-06** | Sao Paulo
+* [DevDay RS](http://devday.rs/) | **March 17** | Rio Grande do Sul
 
 #### April
 
 * [Campus Party NATAL](http://brasil.campus-party.org/cpnatal/) | **April 11-15** | Natal
+* [20º Encontro Locaweb São Paulo](https://eventos.locaweb.com.br/proximos-eventos/20o-encontro-locaweb-sao-paulo/) | **April 11** | Sao Paulo
+
+#### August
+
+* [BrazilJS](https://braziljs.org/conf/) | **August 24-25** | Rio Grande do Sul
+
+#### November
+
+* [RubyConf Brasil](http://eventos.locaweb.com.br/proximos-eventos/rubyconf-brasil-2018/) | **November 23-24** | Sao Paulo
+
 
 ## 2017
 
