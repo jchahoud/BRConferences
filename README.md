@@ -17,6 +17,10 @@
 * [Campus Party NATAL](http://brasil.campus-party.org/cpnatal/) | **April 11-15** | Natal
 * [20º Encontro Locaweb São Paulo](https://eventos.locaweb.com.br/proximos-eventos/20o-encontro-locaweb-sao-paulo/) | **April 11** | Sao Paulo
 
+#### May
+
+* [.NET Community Summit](https://eventos.imasters.com.br/dotnetsummit/) | **May 05** | Sao Paulo
+
 #### August
 
 * [BrazilJS](https://braziljs.org/conf/) | **August 24-25** | Rio Grande do Sul
