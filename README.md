@@ -13,6 +13,7 @@
 
 #### April
 
+* [MVPConf](https://mvpconf.com.br/) | **April 06-07** | São Paulo
 * [Campus Party NATAL](http://brasil.campus-party.org/cpnatal/) | **April 11-15** | Natal
 * [20º Encontro Locaweb São Paulo](https://eventos.locaweb.com.br/proximos-eventos/20o-encontro-locaweb-sao-paulo/) | **April 11** | Sao Paulo
 
