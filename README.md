@@ -25,6 +25,10 @@
 
 * [BrazilJS](https://braziljs.org/conf/) | **August 24-25** | Rio Grande do Sul
 
+#### September
+
+* [The Conf](https://www.theconf.club/) | **September 21-22** | São Paulo
+
 #### November
 
 * [RubyConf Brasil](http://eventos.locaweb.com.br/proximos-eventos/rubyconf-brasil-2018/) | **November 23-24** | Sao Paulo
