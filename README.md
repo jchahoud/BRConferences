@@ -27,6 +27,7 @@
 
 #### September
 
+* [The Conf](https://www.theconf.club/) | **September 21-22** | São Paulo
 * [DevDay 2018](http://devday.devisland.com/) | **September 01** | Minas Gerais
 
 #### November
