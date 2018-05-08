@@ -25,6 +25,10 @@
 
 * [BrazilJS](https://braziljs.org/conf/) | **August 24-25** | Rio Grande do Sul
 
+#### September
+
+* [DevDay 2018](http://devday.devisland.com/) | **September 01** | Minas Gerais
+
 #### November
 
 * [RubyConf Brasil](http://eventos.locaweb.com.br/proximos-eventos/rubyconf-brasil-2018/) | **November 23-24** | Sao Paulo
