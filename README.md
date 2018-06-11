@@ -21,6 +21,11 @@
 
 * [.NET Community Summit](https://eventos.imasters.com.br/dotnetsummit/) | **May 05** | Sao Paulo
 
+#### July
+
+* [JS Experience 2018](https://eventos.imasters.com.br/jsexperience/) | **July 05** | Sao Paulo
+* [TDC Sao Paulo](http://www.thedevelopersconference.com.br/tdc/2018/index.html) | **July 17-21** | Sao Paulo
+
 #### August
 
 * [BrazilJS](https://braziljs.org/conf/) | **August 24-25** | Rio Grande do Sul
