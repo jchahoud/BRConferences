@@ -37,6 +37,7 @@
 
 #### November
 
+* [Rails Girls Belém](http://www.railsgirls.com/belem) | **November 17-18** | Brasília
 * [RubyConf Brasil](http://eventos.locaweb.com.br/proximos-eventos/rubyconf-brasil-2018/) | **November 23-24** | Sao Paulo
 
 
