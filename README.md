@@ -1,5 +1,11 @@
 # Conferências e Eventos de Tecnologia e de Startups no Brasil (Brazilian Tech and Startup Conferences)
 
+## 2019
+
+#### January
+
+* [Campus Party](http://brasil.campus-party.org/) | **February 12-17** | Sao Paulo
+
 ## 2018
 
 #### January
