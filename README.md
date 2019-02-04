@@ -6,6 +6,10 @@
 
 * [Campus Party](http://brasil.campus-party.org/) | **February 12-17** | Sao Paulo
 
+#### May
+
+* [QCon Sao Paulo](http://qconsp.com/) | **May 06-08** | Sao Paulo
+
 ## 2018
 
 #### January
