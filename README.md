@@ -2,13 +2,18 @@
 
 ## 2019
 
-#### January
+#### February
 
 * [Campus Party](http://brasil.campus-party.org/) | **February 12-17** | Sao Paulo
 
 #### May
 
 * [QCon Sao Paulo](http://qconsp.com/) | **May 06-08** | Sao Paulo
+
+#### April
+
+* [DevOpsDays São Paulo 2019](https://www.devopsdays.org/events/2019-sao-paulo/welcome/) | **April 10-11** | Sao Paulo
+
 
 ## 2018
 
