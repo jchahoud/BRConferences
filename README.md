@@ -5,10 +5,32 @@
 #### March
 
 * [TDC Connections](https://thedevconf.com/tdc/2022/connections) | **March 22-24** | Hybrid: Online + Recife and BH
+* [Campus Party Brasilia](http://brasil.campus-party.org/) | **March 23-27** | Brasilia
+* [Locaweb Digital Conference](https://locawebdigitalconference.com.br/) | **March 15** | Hybrid: Online + Sao Paulo
+
+#### April
+
+* [Agile Trends](https://agiletrendsbr.com/agile-trends-2022/) | **April 11-14** | Sao Paulo
+
+#### May
+
+* [QCon Plus](https://plus.qconferences.com/) | **May 10-20** | Online
 
 #### June
 
 * [TDC Innovation](https://thedevconf.com/tdc/2022) | **June 01-03** | Online
+
+#### July
+
+* [Campus Party SP](http://brasil.campus-party.org/) | **July 16-20** | Sao Paulo
+
+#### August
+
+* [TDC Business](https://thedevconf.com/tdc/2022) | **August 22-24** | Online
+
+#### December
+
+* [TDC Future](https://thedevconf.com/tdc/2022) | **December TBD** | Online
 
 ## 2019
 
