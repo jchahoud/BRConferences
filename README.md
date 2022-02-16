@@ -1,5 +1,11 @@
 # Conferências e Eventos de Tecnologia e de Startups no Brasil (Brazilian Tech and Startup Conferences)
 
+## 2020
+
+#### March
+
+* [TDC Connections](https://thedevconf.com/tdc/2022/connections) | **July 22-24** | Hybrid: Online + Recife and BH
+
 ## 2019
 
 #### February
