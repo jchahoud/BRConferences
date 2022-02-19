@@ -23,6 +23,7 @@
 #### July
 
 * [Campus Party SP](http://brasil.campus-party.org/) | **July 16-20** | Sao Paulo
+* [Roadsec](https://www.roadsec.com.br/) | **July 07** | Sao Paulo
 
 #### August
 
