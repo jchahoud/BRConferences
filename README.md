@@ -19,6 +19,7 @@
 #### June
 
 * [TDC Innovation](https://thedevconf.com/tdc/2022) | **June 01-03** | Online
+* [Universo Totvs](https://universo.totvs.com/) | **June 14-15** | Sao Paulo
 
 #### July
 
