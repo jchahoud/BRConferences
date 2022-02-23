@@ -20,6 +20,7 @@
 
 * [TDC Innovation](https://thedevconf.com/tdc/2022) | **June 01-03** | Online
 * [Universo Totvs](https://universo.totvs.com/) | **June 14-15** | Sao Paulo
+* [Devopsdays Vitoria](https://devopsdays.org/events/2022-vitoria/welcome/) | **June 24-25** | Vitoria
 
 #### July
 
