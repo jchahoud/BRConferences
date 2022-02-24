@@ -2,6 +2,10 @@
 
 ## 2022
 
+#### January
+
+* [FRONTIN SENIOR](https://conteudo.frontinsampa.com.br/senior) | **January 29** | Online
+
 #### March
 
 * [TDC Connections](https://thedevconf.com/tdc/2022/connections) | **March 22-24** | Hybrid: Online + Recife and BH
