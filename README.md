@@ -35,6 +35,10 @@
 
 * [TDC Business](https://thedevconf.com/tdc/2022) | **August 22-24** | Online
 
+#### September
+
+* [CodeCon](https://www.codecon.dev/) | **September 22-24** | Online
+
 #### December
 
 * [TDC Future](https://thedevconf.com/tdc/2022) | **December TBD** | Online
