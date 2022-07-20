@@ -31,10 +31,12 @@
 
 * [Campus Party SP](http://brasil.campus-party.org/) | **July 16-20** | Sao Paulo
 * [Roadsec](https://www.roadsec.com.br/) | **July 07** | Sao Paulo
+* [frontinsampa](https://conteudo.frontinsampa.com.br/sampa) | **July 16** | Sao Paulo
 
 #### August
 
 * [TDC Business](https://thedevconf.com/tdc/2022) | **August 22-24** | Online
+* [AWS Summit São Paulo](https://aws.amazon.com/pt/events/summits/sao-paulo/) | **August 03-04** | Sao Paulo
 
 #### September
 
