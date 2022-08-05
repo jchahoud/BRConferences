@@ -37,6 +37,7 @@
 
 * [TDC Business](https://thedevconf.com/tdc/2022) | **August 22-24** | Online
 * [AWS Summit São Paulo](https://aws.amazon.com/pt/events/summits/sao-paulo/) | **August 03-04** | Sao Paulo
+* [Ambev tech and cheers](https://www.ambevtechandcheers.com.br) | **August 03** | Online
 
 #### September
 
