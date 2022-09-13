@@ -44,6 +44,10 @@
 * [CodeCon](https://www.codecon.dev/) | **September 22-24** | Online
 * [gophercon brasil](https://gopherconbr.org/) | **September 30-October 01** | Florianopolis
 
+#### November
+
+* [Front in Floripa](https://frontin.floripa.br/) | **November 19** | Florianopolis
+
 #### December
 
 * [TDC Future](https://thedevconf.com/tdc/2022) | **December TBD** | Online
