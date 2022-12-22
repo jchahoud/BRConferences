@@ -6,6 +6,10 @@
 
 * [Web Summit Rio](https://rio.websummit.com/) | **May 01-04** | Rio de Janeiro
 
+#### July
+
+* [Campus Party SP](https://brasil.campus-party.org/cpbr15/) | **July 25-30** | Sao Paulo
+
 
 ## 2022
 
