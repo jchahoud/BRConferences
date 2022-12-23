@@ -2,6 +2,10 @@
 
 ## 2023
 
+#### January
+
+* [Conferência CSS Brasil 2023 + Code In The Dark](https://www.sympla.com.br/conferencia-css-brasil-2023-code-in-the-dark__1759146?share_id=0) | **January 21** | Sao Paulo
+
 #### May
 
 * [Web Summit Rio](https://rio.websummit.com/) | **May 01-04** | Rio de Janeiro
