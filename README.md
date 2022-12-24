@@ -6,6 +6,10 @@
 
 * [Conferência CSS Brasil 2023 + Code In The Dark](https://www.sympla.com.br/conferencia-css-brasil-2023-code-in-the-dark__1759146?share_id=0) | **January 21** | Sao Paulo
 
+#### March
+
+* [TDC Connections](https://thedevconf.com/tdc/2023/connections/) | **March 22-24** | Hybrid: Online + Recife and BH
+
 #### May
 
 * [Web Summit Rio](https://rio.websummit.com/) | **May 01-04** | Rio de Janeiro
@@ -13,7 +17,6 @@
 #### July
 
 * [Campus Party SP](https://brasil.campus-party.org/cpbr15/) | **July 25-30** | Sao Paulo
-
 
 ## 2022
 
