@@ -10,6 +10,10 @@
 
 * [TDC Connections](https://thedevconf.com/tdc/2023/connections/) | **March 22-24** | Hybrid: Online + Recife and BH
 
+#### April
+
+* [Agile Trends](https://agiletrendsbr.com/agile-trends-2023/) | **April 03-06** | Sao Paulo
+
 #### May
 
 * [Web Summit Rio](https://rio.websummit.com/) | **May 01-04** | Rio de Janeiro
