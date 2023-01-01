@@ -63,6 +63,7 @@
 
 #### September
 
+* [OctogatosConf](https://www.octogatosconf.com/) | **September 15** | Online Free
 * [CodeCon](https://www.codecon.dev/) | **September 22-24** | Online
 * [gophercon brasil](https://gopherconbr.org/) | **September 30-October 01** | Florianopolis
 
