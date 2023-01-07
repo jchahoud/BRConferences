@@ -12,19 +12,20 @@
 
 #### April
 
-* [Agile Trends](https://agiletrendsbr.com/agile-trends-2023/) | **April 03-06** | Sao Paulo
+* [Agile Trends](https://agiletrendsbr.com/agile-trends-2023/) | **April 03-06** | Sao Paulo - SP
 
 #### May
 
-* [Web Summit Rio](https://rio.websummit.com/) | **May 01-04** | Rio de Janeiro
+* [Web Summit Rio](https://rio.websummit.com/) | **May 01-04** | Rio de Janeiro - RJ
 
 #### July
 
-* [Campus Party SP](https://brasil.campus-party.org/cpbr15/) | **July 25-30** | Sao Paulo
+* [Campus Party SP](https://brasil.campus-party.org/cpbr15/) | **July 25-30** | Sao Paulo - SP
 
 #### September
 
-* [Mind The Sec 2023](https://www.eventbrite.com.br/e/mind-the-sec-2023-tickets-465660451947) | **September 12-14** | Sao Paulo
+* [Mind The Sec 2023](https://www.eventbrite.com.br/e/mind-the-sec-2023-tickets-465660451947) | **September 12-14** | Sao Paulo - SP
+* [GopherCon Brasil 2023](https://gopherconbr.org/) | **September 22-23** | Florianopolis - SC
 
 ## 2022
 
