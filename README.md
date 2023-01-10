@@ -8,6 +8,7 @@
 
 #### March
 
+* [Devopsdays Goiânia](https://devopsdays.org/events/2023-goiania/welcome/) | **March 03-04** | Goiânia - GO
 * [TDC Connections](https://thedevconf.com/tdc/2023/connections/) | **March 22-24** | Hybrid: Online + Recife and BH
 
 #### April
