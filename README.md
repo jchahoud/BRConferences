@@ -19,6 +19,10 @@
 
 * [Web Summit Rio](https://rio.websummit.com/) | **May 01-04** | Rio de Janeiro - RJ
 
+#### June
+
+* [TDC Innovation](https://thedevconf.com/tdc/2023/) | **June 14-16** | Hybrid: Online + Florianopolis - SC
+
 #### July
 
 * [Campus Party SP](https://brasil.campus-party.org/cpbr15/) | **July 25-30** | Sao Paulo - SP
