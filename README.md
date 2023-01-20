@@ -31,6 +31,7 @@
 
 * [Mind The Sec 2023](https://www.eventbrite.com.br/e/mind-the-sec-2023-tickets-465660451947) | **September 12-14** | Sao Paulo - SP
 * [GopherCon Brasil 2023](https://gopherconbr.org/) | **September 22-23** | Florianopolis - SC
+* [TDC Business](https://thedevconf.com/tdc/2023/connections/) | **September 19-21** | Sao Paulo - SP
 
 ## 2022
 
