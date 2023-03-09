@@ -14,6 +14,8 @@
 #### April
 
 * [Agile Trends](https://agiletrendsbr.com/agile-trends-2023/) | **April 03-06** | Sao Paulo - SP
+* [#CPBSB5 Campus Party Brasilia](https://brasil.campus-party.org/cpbsb5/ingressos/) | **April 05-09** | Brasilia
+
 
 #### May
 
