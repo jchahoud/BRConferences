@@ -22,6 +22,7 @@
 #### June
 
 * [TDC Innovation](https://thedevconf.com/tdc/2023/) | **June 14-16** | Hybrid: Online + Florianopolis - SC
+* [Universo Totvs](https://universo.totvs.com/) | **June 28-29** | Sao Paulo
 * [RS/XP](https://www.rocketseat.com.br/eventos/rsxp) | **June 30- July 01** | Sao Paulo - SP
 
 
