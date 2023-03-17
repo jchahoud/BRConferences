@@ -31,6 +31,7 @@
 #### July
 
 * [Campus Party SP](https://brasil.campus-party.org/cpbr15/) | **July 25-30** | Sao Paulo - SP
+* [Roadsec](https://www.roadsec.com.br/) | **July 15** | Sao Paulo - SP
 
 #### September
 
