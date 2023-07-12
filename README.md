@@ -33,6 +33,10 @@
 * [Campus Party SP](https://brasil.campus-party.org/cpbr15/) | **July 25-30** | Sao Paulo - SP
 * [Roadsec](https://www.roadsec.com.br/) | **July 15** | Sao Paulo - SP
 
+#### August
+
+* [Dev_Leaders](https://www.devleaders.com.br/) | **August 11** | Sao Paulo - SP
+
 #### September
 
 * [Mind The Sec 2023](https://www.eventbrite.com.br/e/mind-the-sec-2023-tickets-465660451947) | **September 12-14** | Sao Paulo - SP
