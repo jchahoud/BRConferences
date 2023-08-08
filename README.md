@@ -43,6 +43,11 @@
 * [GopherCon Brasil 2023](https://gopherconbr.org/) | **September 22-23** | Florianopolis - SC
 * [TDC Business](https://thedevconf.com/tdc/2023/connections/) | **September 19-21** | Sao Paulo - SP
 
+#### October
+
+* [Codecon feature](https://www.codecon.dev/feature) | **October 28** | Florianopolis - SC
+
+
 ## 2022
 
 #### January
