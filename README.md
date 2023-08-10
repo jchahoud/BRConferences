@@ -35,6 +35,7 @@
 
 #### August
 
+* [AWS Summit São Paulo](https://aws.amazon.com/pt/events/summits/sao-paulo/) | **August 03** | Sao Paulo - SP
 * [Dev_Leaders](https://www.devleaders.com.br/) | **August 11** | Sao Paulo - SP
 * [Codecon summit](https://www.codecon.dev/summit) | **August 26** | Joinville - SC
 * [Devopsdays](https://devopsdays.org/events/2023-rio-de-janeiro/welcome/) | **August 19** | Rio de Janeiro - RJ
