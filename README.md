@@ -36,9 +36,12 @@
 #### August
 
 * [Dev_Leaders](https://www.devleaders.com.br/) | **August 11** | Sao Paulo - SP
-
+* [Codecon summit](https://www.codecon.dev/summit) | **August 26** | Joinville - SC
+* [Devopsdays](https://devopsdays.org/events/2023-rio-de-janeiro/welcome/) | **August 19** | Rio de Janeiro - RJ
+  
 #### September
 
+* [Front in vale](https://frontinvale.com.br/) | **September 02** | Sao Jose dos Campos - SP
 * [Mind The Sec 2023](https://www.eventbrite.com.br/e/mind-the-sec-2023-tickets-465660451947) | **September 12-14** | Sao Paulo - SP
 * [GopherCon Brasil 2023](https://gopherconbr.org/) | **September 22-23** | Florianopolis - SC
 * [TDC Business](https://thedevconf.com/tdc/2023/connections/) | **September 19-21** | Sao Paulo - SP
