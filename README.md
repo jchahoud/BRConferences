@@ -23,10 +23,11 @@
 
 #### June
 
+* [Vtex Day](https://vtexday.com.br/) | **June 05-06** | Sao Paulo - SP
 * [TDC Innovation](https://thedevconf.com/tdc/2023/) | **June 14-16** | Hybrid: Online + Florianopolis - SC
-* [Universo Totvs](https://universo.totvs.com/) | **June 28-29** | Sao Paulo
+* [Universo Totvs](https://universo.totvs.com/) | **June 28-29** | Sao Paulo - SP
 * [Febraban Tech](https://febrabantech.febraban.org.br/home) | **June 27-29** | Sao Paulo - SP
-* [RS/XP](https://www.rocketseat.com.br/eventos/rsxp) | **June 30- July 01** | Sao Paulo - SP
+* [RS/XP](https://www.rocketseat.com.br/eventos/rsxp) | **June 30-July 01** | Sao Paulo - SP
 
 
 #### July
@@ -44,6 +45,8 @@
 * [hacktown](https://hacktown.com.br/) | **August 17-20** | Santa Rita do Sapucai - MG
 * [Codecon summit](https://www.codecon.dev/summit) | **August 26** | Joinville - SC
 * [Devopsdays](https://devopsdays.org/events/2023-rio-de-janeiro/welcome/) | **August 19** | Rio de Janeiro - RJ
+* [Mercado Livre Experience](https://mercadolivreexperience.com.br/) | **August 30-31** | Sao Paulo - SP
+
   
 #### September
 
