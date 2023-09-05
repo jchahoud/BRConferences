@@ -52,14 +52,17 @@
 
 * [Front in vale](https://frontinvale.com.br/) | **September 02** | Sao Jose dos Campos - SP
 * [Mind The Sec 2023](https://www.eventbrite.com.br/e/mind-the-sec-2023-tickets-465660451947) | **September 12-14** | Sao Paulo - SP
-* [GopherCon Brasil 2023](https://gopherconbr.org/) | **September 22-23** | Florianopolis - SC
 * [TDC Business](https://thedevconf.com/tdc/2023/connections/) | **September 19-21** | Sao Paulo - SP
+* [GopherCon Brasil 2023](https://gopherconbr.org/) | **September 22-23** | Florianopolis - SC
+* [Python Nordeste 2023](https://2023.pythonnordeste.org/) | **September 22-24** | Salvador - BA
 
 #### October
 
 * [Futurecom 23](https://www.futurecom.com.br/pt/home.html) | **October 03-05** | Sao Paulo - SP
 * [Campus Party Amazonia](https://brasil.campus-party.org/cpamazonia/ingressos/) | **October 11-15** | Manaus - AM
 * [Codecon feature](https://www.codecon.dev/feature) | **October 28** | Florianopolis - SC
+* [pythonbrasil 2023](https://2023.pythonbrasil.org.br/) | **October 30 - November 05** |  Caxias do Sul - RS
+
 
 #### November
 
