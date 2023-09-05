@@ -32,6 +32,8 @@
 
 * [Campus Party SP](https://brasil.campus-party.org/cpbr15/) | **July 25-30** | Sao Paulo - SP
 * [Roadsec](https://www.roadsec.com.br/) | **July 15** | Sao Paulo - SP
+* [Code in the Dark](http://codeinthedark.com.br) | **July 29** | Sao Paulo - SP
+
 
 #### August
 
@@ -51,7 +53,17 @@
 #### October
 
 * [Codecon feature](https://www.codecon.dev/feature) | **October 28** | Florianopolis - SC
+* [Campus Party Amazonia](https://brasil.campus-party.org/cpamazonia/ingressos/) | **October 11-15** | Manaus - AM
 
+#### November
+
+* [Devopsdays Florianopolis](https://devopsdays.org/events/2023-florianopolis/welcome/) | **November 11** | Florianopolis - SC
+
+#### December
+
+* [Devopsdays Salvador](https://devopsdays.org/events/2023-salvador/welcome/) | **December 16** | Salvador - BA
+* [TDC Future](https://thedevconf.com/tdc/2023/future/) | **December 05-07** | Porto Alegre - RS e Online
+* [PHP Conference Brasil 2023](http://www.phpconference.com.br/) | **December 07-09** | Pedra Branca - SC e Online
 
 ## 2022
 
