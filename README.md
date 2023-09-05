@@ -54,6 +54,7 @@
 * [Mind The Sec 2023](https://www.eventbrite.com.br/e/mind-the-sec-2023-tickets-465660451947) | **September 12-14** | Sao Paulo - SP
 * [TDC Business](https://thedevconf.com/tdc/2023/connections/) | **September 19-21** | Sao Paulo - SP
 * [GopherCon Brasil 2023](https://gopherconbr.org/) | **September 22-23** | Florianopolis - SC
+* [Python Sul](https://pythonsul.dev/) | **September 22-23** | Balneário Camboriú - SC
 * [Python Nordeste 2023](https://2023.pythonnordeste.org/) | **September 22-24** | Salvador - BA
 
 #### October
@@ -66,6 +67,7 @@
 
 #### November
 
+* [AWS community Day](https://awscommunityday.com.br/) | **November 04** | Ribeirão Preto - SP e Online
 * [Devopsdays Florianopolis](https://devopsdays.org/events/2023-florianopolis/welcome/) | **November 11** | Florianopolis - SC
 
 #### December
