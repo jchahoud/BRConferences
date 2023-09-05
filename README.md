@@ -25,6 +25,7 @@
 
 * [TDC Innovation](https://thedevconf.com/tdc/2023/) | **June 14-16** | Hybrid: Online + Florianopolis - SC
 * [Universo Totvs](https://universo.totvs.com/) | **June 28-29** | Sao Paulo
+* [Febraban Tech](https://febrabantech.febraban.org.br/home) | **June 27-29** | Sao Paulo - SP
 * [RS/XP](https://www.rocketseat.com.br/eventos/rsxp) | **June 30- July 01** | Sao Paulo - SP
 
 
@@ -53,8 +54,9 @@
 
 #### October
 
-* [Codecon feature](https://www.codecon.dev/feature) | **October 28** | Florianopolis - SC
+* [Futurecom 23](https://www.futurecom.com.br/pt/home.html) | **October 03-05** | Sao Paulo - SP
 * [Campus Party Amazonia](https://brasil.campus-party.org/cpamazonia/ingressos/) | **October 11-15** | Manaus - AM
+* [Codecon feature](https://www.codecon.dev/feature) | **October 28** | Florianopolis - SC
 
 #### November
 
