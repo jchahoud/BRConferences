@@ -39,6 +39,7 @@
 
 * [AWS Summit São Paulo](https://aws.amazon.com/pt/events/summits/sao-paulo/) | **August 03** | Sao Paulo - SP
 * [Dev_Leaders](https://www.devleaders.com.br/) | **August 11** | Sao Paulo - SP
+* [Locaweb Digital Conference 2023](https://locawebdigitalconference.com.br/) | **August 17** | Sao Paulo - SP
 * [hacktown](https://hacktown.com.br/) | **August 17-20** | Santa Rita do Sapucai - MG
 * [Codecon summit](https://www.codecon.dev/summit) | **August 26** | Joinville - SC
 * [Devopsdays](https://devopsdays.org/events/2023-rio-de-janeiro/welcome/) | **August 19** | Rio de Janeiro - RJ
