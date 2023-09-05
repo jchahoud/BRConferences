@@ -20,6 +20,7 @@
 #### May
 
 * [Web Summit Rio](https://rio.websummit.com/) | **May 01-04** | Rio de Janeiro - RJ
+* [AWS Cloud Experience](https://aws.amazon.com/pt/events/cloudexperience/) | **May 11** | Fortaleza - CE
 
 #### June
 
