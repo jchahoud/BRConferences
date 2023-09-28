@@ -61,6 +61,8 @@
 #### October
 
 * [Futurecom 23](https://www.futurecom.com.br/pt/home.html) | **October 03-05** | Sao Paulo - SP
+* [RogaDX 2023](https://rogadx.com/) | **October 06-07** | Maceió - AL
+* [GDG DevFest Maceió 2023](https://gdg.community.dev/events/details/google-gdg-maceio-presents-gdg-devfest-maceio-2023/) | **October 06-07** | Maceió - AL
 * [Campus Party Amazonia](https://brasil.campus-party.org/cpamazonia/ingressos/) | **October 11-15** | Manaus - AM
 * [Codecon feature](https://www.codecon.dev/feature) | **October 28** | Florianopolis - SC
 * [pythonbrasil 2023](https://2023.pythonbrasil.org.br/) | **October 30 - November 05** |  Caxias do Sul - RS
@@ -70,6 +72,7 @@
 
 * [AWS community Day](https://awscommunityday.com.br/) | **November 04** | Ribeirão Preto - SP e Online
 * [Devopsdays Florianopolis](https://devopsdays.org/events/2023-florianopolis/welcome/) | **November 11** | Florianopolis - SC
+* [DevFest Rio Verde](https://www.devfestrioverde.com/) | **November 25** | Rio Verde - GO
 
 #### December
 
