@@ -63,7 +63,7 @@
 
 * [Futurecom 23](https://www.futurecom.com.br/pt/home.html) | **October 03-05** | Sao Paulo - SP
 * [RogaDX 2023](https://rogadx.com/) | **October 06-07** | Maceió - AL
-* [PHPeste 2023](https://phpeste.org/) | **October 06-07 | Recife - PE
+* [PHPeste 2023](https://phpeste.org/) | **October 06-07** | Recife - PE
 * [GDG DevFest Maceió 2023](https://gdg.community.dev/events/details/google-gdg-maceio-presents-gdg-devfest-maceio-2023/) | **October 06-07** | Maceió - AL
 * [Campus Party Amazonia](https://brasil.campus-party.org/cpamazonia/ingressos/) | **October 11-15** | Manaus - AM
 * [Codecon feature](https://www.codecon.dev/feature) | **October 28** | Florianopolis - SC
