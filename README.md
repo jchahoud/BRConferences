@@ -48,7 +48,7 @@
 * [Devopsdays](https://devopsdays.org/events/2023-rio-de-janeiro/welcome/) | **August 19** | Rio de Janeiro - RJ
 * [Mercado Livre Experience](https://mercadolivreexperience.com.br/) | **August 30-31** | Sao Paulo - SP
 
-  
+
 #### September
 
 * [Front in vale](https://frontinvale.com.br/) | **September 02** | Sao Jose dos Campos - SP
@@ -57,11 +57,13 @@
 * [GopherCon Brasil 2023](https://gopherconbr.org/) | **September 22-23** | Florianopolis - SC
 * [Python Sul](https://pythonsul.dev/) | **September 22-23** | Balneário Camboriú - SC
 * [Python Nordeste 2023](https://2023.pythonnordeste.org/) | **September 22-24** | Salvador - BA
+* [Locaweb PHP Community Summit 2023](https://php.locaweb.com.br/) | **September 28-29** | Sao Paulo - SP
 
 #### October
 
 * [Futurecom 23](https://www.futurecom.com.br/pt/home.html) | **October 03-05** | Sao Paulo - SP
 * [RogaDX 2023](https://rogadx.com/) | **October 06-07** | Maceió - AL
+* [PHPeste 2023](https://phpeste.org/) | **October 06-07 | Recife - PE
 * [GDG DevFest Maceió 2023](https://gdg.community.dev/events/details/google-gdg-maceio-presents-gdg-devfest-maceio-2023/) | **October 06-07** | Maceió - AL
 * [Campus Party Amazonia](https://brasil.campus-party.org/cpamazonia/ingressos/) | **October 11-15** | Manaus - AM
 * [Codecon feature](https://www.codecon.dev/feature) | **October 28** | Florianopolis - SC
