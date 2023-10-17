@@ -1,5 +1,11 @@
 # Conferências e Eventos de Tecnologia e de Startups no Brasil (Brazilian Tech and Startup Conferences)
 
+## 2024
+
+#### April
+
+* [Web Summit Rio](https://rio.websummit.com/) | **April 15-18** | Rio de Janeiro - RJ
+
 ## 2023
 
 #### January
