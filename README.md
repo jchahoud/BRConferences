@@ -81,6 +81,8 @@
 * [AWS community Day](https://awscommunityday.com.br/) | **November 04** | Ribeirão Preto - SP e Online
 * [Devopsdays Florianopolis](https://devopsdays.org/events/2023-florianopolis/welcome/) | **November 11** | Florianopolis - SC
 * [DevFest Rio Verde](https://www.devfestrioverde.com/) | **November 25** | Rio Verde - GO
+* [DevFest Cerrado](https://doity.com.br/devfest-cerrado-2023) | **November 25** | Goiania - GO
+* [DevFest Pato Branco](https://gdg.community.dev/events/details/google-gdg-pato-branco-presents-devfest-pato-branco/) | **November 25** | Pato Branco - PR
 
 #### December
 
