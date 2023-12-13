@@ -8,6 +8,8 @@
 
 ## 2023
 
+<details>
+<summary>Expandir</summary>
 #### January
 
 * [Conferência CSS Brasil 2023 + Code In The Dark](https://www.sympla.com.br/conferencia-css-brasil-2023-code-in-the-dark__1759146?share_id=0) | **January 21** | Sao Paulo
@@ -92,8 +94,12 @@
 * [TDC Future](https://thedevconf.com/tdc/2023/future/) | **December 05-07** | Porto Alegre - RS e Online
 * [PHP Conference Brasil 2023](http://www.phpconference.com.br/) | **December 07-09** | Pedra Branca - SC e Online
 
+</details>
+
 ## 2022
 
+<details>
+<summary>Expandir</summary>
 #### January
 
 * [FRONTIN SENIOR](https://conteudo.frontinsampa.com.br/senior) | **January 29** | Online
@@ -141,8 +147,12 @@
 
 * [TDC Future](https://thedevconf.com/tdc/2022) | **December TBD** | Online
 
+</details>
+
 ## 2019
 
+<details>
+<summary>Expandir</summary>
 #### February
 
 * [Campus Party](http://brasil.campus-party.org/) | **February 12-17** | Sao Paulo
@@ -196,9 +206,12 @@
 * [Rails Girls Belém](http://www.railsgirls.com/belem) | **November 17-18** | Brasília
 * [RubyConf Brasil](http://eventos.locaweb.com.br/proximos-eventos/rubyconf-brasil-2018/) | **November 23-24** | Sao Paulo
 
+</details>
 
 ## 2017
 
+<details>
+<summary>Expandir</summary>
 #### January
 
 * [Campus Party](http://brasil.campus-party.org/) | **January 31-February 05** | Sao Paulo
@@ -267,9 +280,12 @@
 #### December
 
 * [PHP Conference Brasil 2017](http://www.phpconference.com.br/) | **December 06-10** | Sao Paulo
+</details>
 
 ## 2016
 
+<details>
+<summary>Expandir</summary>
 #### January
 
 * [Campus Party](http://brasil.campus-party.org/) | **January 26-31** | Sao Paulo
@@ -434,6 +450,8 @@
 * [Rails Girls Sao Paulo](http://railsgirls.com/saopaulo) | **December 09-10** | Sao Paulo
 * [Xamarin Dev Days](https://www.meetup.com/pt-BR/Mobile-Brasil/events/235895789/) | **December 10** | São Paulo
 * [Darkmira Tour Community & PHP Com Rapadura](http://community.darkmiratour.rocks/phpcomrapadura/) | **December 16** | Fortaleza
+
+</details>
 
 ## More
 * A [Twitter list](https://twitter.com/jchahoud/lists/brconferences) with all the conferences made by [Juliana Chahoud](https://twitter.com/jchahoud)
