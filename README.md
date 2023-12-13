@@ -169,6 +169,7 @@
 
 <details>
 <summary>Expandir</summary>
+
 #### February
 
 * [Campus Party](http://brasil.campus-party.org/) | **February 12-17** | Sao Paulo
