@@ -2,9 +2,23 @@
 
 ## 2024
 
+#### March
+
+* [AWSome Women Community Summit](https://awsome.shescloud.me/) | **March 9** | Belo Horizone - MG
+
 #### April
 
 * [Web Summit Rio](https://rio.websummit.com/) | **April 15-18** | Rio de Janeiro - RJ
+
+
+#### August
+
+* [DevOpsDays Rio](https://devopsdays.org/events/2024-rio-de-janeiro/) | **August 17** | Rio de Janeiro - RJ
+
+
+#### October
+
+* [Python Brasil 2024](2024.pythonbrasil.org.br/) | **October 18-20** | Rio de Janeiro - RJ
 
 ## 2023
 
