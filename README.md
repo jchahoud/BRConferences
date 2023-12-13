@@ -24,6 +24,7 @@
 
 <details>
 <summary>Expandir</summary>
+
 #### January
 
 * [Conferência CSS Brasil 2023 + Code In The Dark](https://www.sympla.com.br/conferencia-css-brasil-2023-code-in-the-dark__1759146?share_id=0) | **January 21** | Sao Paulo
@@ -114,6 +115,7 @@
 
 <details>
 <summary>Expandir</summary>
+
 #### January
 
 * [FRONTIN SENIOR](https://conteudo.frontinsampa.com.br/senior) | **January 29** | Online
@@ -226,6 +228,7 @@
 
 <details>
 <summary>Expandir</summary>
+
 #### January
 
 * [Campus Party](http://brasil.campus-party.org/) | **January 31-February 05** | Sao Paulo
@@ -300,6 +303,7 @@
 
 <details>
 <summary>Expandir</summary>
+
 #### January
 
 * [Campus Party](http://brasil.campus-party.org/) | **January 26-31** | Sao Paulo
