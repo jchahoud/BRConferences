@@ -13,6 +13,7 @@
 
 #### May
 
+* [Python Sul](https://sul.python.org.br/) | **May 1-3** | Londrina - PR
 * [Gramado Summit](https://www.gramadosummit.com/) | **May 6-8** | Gramado - RS
 * [DevOpsDays Natal](https://devopsdays.org/events/2026-natal/welcome/) | **May 16** | Natal - RN
 * [Codecon Universe](https://codecon.dev/universe/) | **May 17-18** | Joinville - SC
@@ -25,10 +26,12 @@
 
 #### July
 
+* [Python Norte](https://2026.pythonnorte.org/) | **July 3-5** | Ananindeua - PA
 * [TDC Floripa](https://thedevconf.com/tdc/2026/florianopolis/) | **July 22-24** | Hybrid: Online + Florianópolis - SC
 
 #### August
 
+* [BrazilJS](https://conf.braziljs.org/) | **August 7-8** | Porto Alegre - RS
 * [Codecon Summit](https://codecon.dev/summit) | **August 14-15** | Pinhais - PR
 * [DevOpsDays Rio de Janeiro](https://devopsdays.org/events/2026-rio-de-janeiro/welcome/) | **August 15** | Rio de Janeiro - RJ
 * [DevOpsDays Curitiba](https://devopsdays.org/events/2026-curitiba/welcome/) | **August 22** | Curitiba - PR
@@ -39,17 +42,26 @@
 * [Agile Trends](https://agiletrendsbr.com/agile-trends-2026/) | **August 31 - September 1** | São Paulo - SP
 * [GopherCon Latam](https://gopherconlatam.org/) | **September 2-4** | Florianópolis - SC
 * [AWS Summit São Paulo](https://aws.amazon.com/pt/events/summits/sao-paulo/) | **September 3** | São Paulo - SP
+* [HackTown](https://hacktown.com.br/) | **September 3-7** | Santa Rita do Sapucaí - MG
 * [Mind The Sec](https://www.mindthesec.com.br/) | **September 15-17** | São Paulo - SP
 * [DevOpsDays Campinas](https://devopsdays.org/events/2026-campinas/welcome/) | **September 19** | Campinas - SP
+* [Mercado Livre Experience](https://mercadolivreexperience.mercadolivre.com.br/) | **September 24-25** | São Paulo - SP
 
 #### October
 
 * [Futurecom](https://www.futurecom.com.br/) | **October 6-8** | São Paulo - SP
+* [Universo TOTVS](https://universo.totvs.com/) | **October 13-14** | São Paulo - SP
 * [Python Brasil 2026](https://2026.pythonbrasil.org.br/) | **October 14-19** | Florianópolis - SC
+* [PHPeste](https://phpeste.dev/) | **October 16-17** | São Luís - MA
+
+#### November
+
+* [Front in Floripa](https://frontin.floripa.br/) | **November 28** | Florianópolis - SC
 
 #### December
 
 * [PHP Conference Brasil](https://phpconference.com.br/) | **December 3-7** | Online + Maringá - PR
+* [DevOpsDays Recife](https://devopsdays.org/events/2026-recife/welcome/) | **December 12** | Recife - PE
 
 ## 2024
 
