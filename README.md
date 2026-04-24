@@ -1,6 +1,60 @@
 # Conferências e Eventos de Tecnologia e de Startups no Brasil (Brazilian Tech and Startup Conferences)
 
+## 2026
+
+#### March
+
+* [South Summit Brazil](https://www.southsummit.io/e/brazil/pt) | **March 25-27** | Porto Alegre - RS
+
+#### April
+
+* [VTEX Day](https://vtexday.vtex.com/) | **April 16-17** | São Paulo - SP
+* [TDC Summit São Paulo](https://thedevconf.com/tdc/2026/summit-sao-paulo/) | **April 23-24** | Hybrid: Online + São Paulo - SP
+
+#### May
+
+* [Gramado Summit](https://www.gramadosummit.com/) | **May 6-8** | Gramado - RS
+* [DevOpsDays Natal](https://devopsdays.org/events/2026-natal/welcome/) | **May 16** | Natal - RN
+* [Codecon Universe](https://codecon.dev/universe/) | **May 17-18** | Joinville - SC
+
+#### June
+
+* [Campus Party Brasil (CPBR18)](https://brasil.campus-party.org/cpbr18/) | **June 3-7** | Brasília - DF
+* [DevOpsDays Feira de Santana](https://devopsdays.org/events/2026-feira-de-santana/welcome/) | **June 6** | Feira de Santana - BA
+* [Web Summit Rio](https://rio.websummit.com/) | **June 8-11** | Rio de Janeiro - RJ
+
+#### July
+
+* [TDC Floripa](https://thedevconf.com/tdc/2026/florianopolis/) | **July 22-24** | Hybrid: Online + Florianópolis - SC
+
+#### August
+
+* [Codecon Summit](https://codecon.dev/summit) | **August 14-15** | Pinhais - PR
+* [DevOpsDays Rio de Janeiro](https://devopsdays.org/events/2026-rio-de-janeiro/welcome/) | **August 15** | Rio de Janeiro - RJ
+* [DevOpsDays Curitiba](https://devopsdays.org/events/2026-curitiba/welcome/) | **August 22** | Curitiba - PR
+* [Febraban Tech](https://febrabantech.febraban.org.br/) | **August 24-26** | São Paulo - SP
+
+#### September
+
+* [Agile Trends](https://agiletrendsbr.com/agile-trends-2026/) | **August 31 - September 1** | São Paulo - SP
+* [GopherCon Latam](https://gopherconlatam.org/) | **September 2-4** | Florianópolis - SC
+* [AWS Summit São Paulo](https://aws.amazon.com/pt/events/summits/sao-paulo/) | **September 3** | São Paulo - SP
+* [Mind The Sec](https://www.mindthesec.com.br/) | **September 15-17** | São Paulo - SP
+* [DevOpsDays Campinas](https://devopsdays.org/events/2026-campinas/welcome/) | **September 19** | Campinas - SP
+
+#### October
+
+* [Futurecom](https://www.futurecom.com.br/) | **October 6-8** | São Paulo - SP
+* [Python Brasil 2026](https://2026.pythonbrasil.org.br/) | **October 14-19** | Florianópolis - SC
+
+#### December
+
+* [PHP Conference Brasil](https://phpconference.com.br/) | **December 3-7** | Online + Maringá - PR
+
 ## 2024
+
+<details>
+<summary>Expandir</summary>
 
 #### March
 
@@ -19,6 +73,8 @@
 #### October
 
 * [Python Brasil 2024](2024.pythonbrasil.org.br/) | **October 18-20** | Rio de Janeiro - RJ
+
+</details>
 
 ## 2023
 
