@@ -15,6 +15,8 @@
 
 * [Python Sul](https://sul.python.org.br/) | **May 1-3** | Londrina - PR
 * [Gramado Summit](https://www.gramadosummit.com/) | **May 6-8** | Gramado - RS
+* [AI Festival](https://pages.startse.com/ai-festival) | **May 13-14** | São Paulo - SP
+* [São Paulo Innovation Week](https://www.saopauloinnovationweek.com.br/) | **May 13-15** | São Paulo - SP
 * [DevOpsDays Natal](https://devopsdays.org/events/2026-natal/welcome/) | **May 16** | Natal - RN
 * [Codecon Universe](https://codecon.dev/universe/) | **May 17-18** | Joinville - SC
 
@@ -23,6 +25,7 @@
 * [Campus Party Brasil (CPBR18)](https://brasil.campus-party.org/cpbr18/) | **June 3-7** | Brasília - DF
 * [DevOpsDays Feira de Santana](https://devopsdays.org/events/2026-feira-de-santana/welcome/) | **June 6** | Feira de Santana - BA
 * [Web Summit Rio](https://rio.websummit.com/) | **June 8-11** | Rio de Janeiro - RJ
+* [Minas Summit](https://minassummit.com.br/) | **June 17-18** | Belo Horizonte - MG
 
 #### July
 
@@ -32,10 +35,13 @@
 #### August
 
 * [BrazilJS](https://conf.braziljs.org/) | **August 7-8** | Porto Alegre - RS
+* [SP2B](https://sp2b.com.br/) | **August 9-16** | São Paulo - SP
+* [Deep Tech Summit](https://emergebrasil.in/deep-tech-summit/) | **August 11-12** | São Paulo - SP
 * [Codecon Summit](https://codecon.dev/summit) | **August 14-15** | Pinhais - PR
 * [DevOpsDays Rio de Janeiro](https://devopsdays.org/events/2026-rio-de-janeiro/welcome/) | **August 15** | Rio de Janeiro - RJ
 * [DevOpsDays Curitiba](https://devopsdays.org/events/2026-curitiba/welcome/) | **August 22** | Curitiba - PR
 * [Febraban Tech](https://febrabantech.febraban.org.br/) | **August 24-26** | São Paulo - SP
+* [Startup Summit](https://www.startupsummit.com.br/) | **August 26-28** | Florianópolis - SC
 
 #### September
 
@@ -45,7 +51,9 @@
 * [HackTown](https://hacktown.com.br/) | **September 3-7** | Santa Rita do Sapucaí - MG
 * [Mind The Sec](https://www.mindthesec.com.br/) | **September 15-17** | São Paulo - SP
 * [DevOpsDays Campinas](https://devopsdays.org/events/2026-campinas/welcome/) | **September 19** | Campinas - SP
+* [ACE Summit](https://acesummit.com.br/) | **September 22** | São Paulo - SP
 * [Mercado Livre Experience](https://mercadolivreexperience.mercadolivre.com.br/) | **September 24-25** | São Paulo - SP
+* [Front in Vale](https://frontinvale.com.br/) | **September TBD** | São José dos Campos - SP
 
 #### October
 
@@ -56,6 +64,7 @@
 
 #### November
 
+* [DevFest](https://devfest.com.br/) | **November TBD** | Várias Cidades
 * [Front in Floripa](https://frontin.floripa.br/) | **November 28** | Florianópolis - SC
 
 #### December
