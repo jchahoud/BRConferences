@@ -30,10 +30,13 @@
 #### July
 
 * [Python Norte](https://2026.pythonnorte.org/) | **July 3-5** | Ananindeua - PA
+* [CSBC 2026](https://csbc.sbc.org.br/2026/) | **July 19-23** | Gramado - RS
+* [AI Summit Brasil](https://aisummit.ia.br/) | **July 22-23** | São Paulo - SP
 * [TDC Floripa](https://thedevconf.com/tdc/2026/florianopolis/) | **July 22-24** | Hybrid: Online + Florianópolis - SC
 
 #### August
 
+* [Rio Innovation Week](https://www.rioinnovationweek.com.br/) | **August 4-7** | Rio de Janeiro - RJ
 * [BrazilJS](https://conf.braziljs.org/) | **August 7-8** | Porto Alegre - RS
 * [SP2B](https://sp2b.com.br/) | **August 9-16** | São Paulo - SP
 * [Deep Tech Summit](https://emergebrasil.in/deep-tech-summit/) | **August 11-12** | São Paulo - SP
@@ -65,6 +68,7 @@
 #### November
 
 * [DevFest](https://devfest.com.br/) | **November TBD** | Várias Cidades
+* [Codecon Select Experience](https://codecon.dev/select/) | **November 1** | São Paulo - SP
 * [Front in Floripa](https://frontin.floripa.br/) | **November 28** | Florianópolis - SC
 
 #### December
