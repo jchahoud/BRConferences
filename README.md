@@ -42,6 +42,7 @@
 * [Deep Tech Summit](https://emergebrasil.in/deep-tech-summit/) | **August 11-12** | São Paulo - SP
 * [Codecon Summit](https://codecon.dev/summit) | **August 14-15** | Pinhais - PR
 * [DevOpsDays Rio de Janeiro](https://devopsdays.org/events/2026-rio-de-janeiro/welcome/) | **August 15** | Rio de Janeiro - RJ
+* [DEXCONF](https://www.mergo.com.br/eventos/dexconf/) | **August 21-22** | São Paulo - SP
 * [DevOpsDays Curitiba](https://devopsdays.org/events/2026-curitiba/welcome/) | **August 22** | Curitiba - PR
 * [Febraban Tech](https://febrabantech.febraban.org.br/) | **August 24-26** | São Paulo - SP
 * [Startup Summit](https://www.startupsummit.com.br/) | **August 26-28** | Florianópolis - SC
@@ -56,6 +57,7 @@
 * [DevOpsDays Campinas](https://devopsdays.org/events/2026-campinas/welcome/) | **September 19** | Campinas - SP
 * [ACE Summit](https://acesummit.com.br/) | **September 22** | São Paulo - SP
 * [Mercado Livre Experience](https://mercadolivreexperience.mercadolivre.com.br/) | **September 24-25** | São Paulo - SP
+* [UXConf BR](https://www.uxconf.com.br/) | **September 25-26** | Porto Alegre - RS
 * [Front in Vale](https://frontinvale.com.br/) | **September TBD** | São José dos Campos - SP
 
 #### October
@@ -74,6 +76,7 @@
 #### December
 
 * [PHP Conference Brasil](https://phpconference.com.br/) | **December 3-7** | Online + Maringá - PR
+* [DevOpsDays Salvador](https://devopsdays.org/events/2026-salvador/welcome/) | **December 5** | Salvador - BA
 * [DevOpsDays Recife](https://devopsdays.org/events/2026-recife/welcome/) | **December 12** | Recife - PE
 
 ## 2024
