@@ -33,6 +33,7 @@
 * [CSBC 2026](https://csbc.sbc.org.br/2026/) | **July 19-23** | Gramado - RS
 * [AI Summit Brasil](https://aisummit.ia.br/) | **July 22-23** | São Paulo - SP
 * [TDC Floripa](https://thedevconf.com/tdc/2026/florianopolis/) | **July 22-24** | Hybrid: Online + Florianópolis - SC
+* [Brazil Tech Summit](https://www.eventbrite.com/e/brazil-tech-summit-tickets-65499469677) | **July 24** | São Paulo - SP
 
 #### August
 
