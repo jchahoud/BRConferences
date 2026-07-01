@@ -57,6 +57,7 @@
 * [Mind The Sec](https://www.mindthesec.com.br/) | **September 15-17** | São Paulo - SP
 * [DevOpsDays Campinas](https://devopsdays.org/events/2026-campinas/welcome/) | **September 19** | Campinas - SP
 * [ACE Summit](https://acesummit.com.br/) | **September 22** | São Paulo - SP
+* [TDC São Paulo](https://thedevconf.com/tdc/2026/sao-paulo/) | **September 23-25** | Hybrid: Online + São Paulo - SP
 * [Mercado Livre Experience](https://mercadolivreexperience.mercadolivre.com.br/) | **September 24-25** | São Paulo - SP
 * [UXConf BR](https://www.uxconf.com.br/) | **September 25-26** | Porto Alegre - RS
 * [Front in Vale](https://frontinvale.com.br/) | **September TBD** | São José dos Campos - SP
