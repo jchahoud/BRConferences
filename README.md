@@ -23,7 +23,6 @@
 #### June
 
 * [Campus Party Brasil (CPBR18)](https://brasil.campus-party.org/cpbr18/) | **June 3-7** | Brasília - DF
-* [DevOpsDays Feira de Santana](https://devopsdays.org/events/2026-feira-de-santana/welcome/) | **June 6** | Feira de Santana - BA
 * [Web Summit Rio](https://rio.websummit.com/) | **June 8-11** | Rio de Janeiro - RJ
 * [Minas Summit](https://minassummit.com.br/) | **June 17-18** | Belo Horizonte - MG
 
@@ -54,20 +53,27 @@
 * [GopherCon Latam](https://gopherconlatam.org/) | **September 2-4** | Florianópolis - SC
 * [AWS Summit São Paulo](https://aws.amazon.com/pt/events/summits/sao-paulo/) | **September 3** | São Paulo - SP
 * [HackTown](https://hacktown.com.br/) | **September 3-7** | Santa Rita do Sapucaí - MG
+* [DevOpsDays Feira de Santana](https://devopsdays.org/events/2026-feira-de-santana/welcome/) | **September 5** | Feira de Santana - BA
 * [Mind The Sec](https://www.mindthesec.com.br/) | **September 15-17** | São Paulo - SP
 * [DevOpsDays Campinas](https://devopsdays.org/events/2026-campinas/welcome/) | **September 19** | Campinas - SP
 * [ACE Summit](https://acesummit.com.br/) | **September 22** | São Paulo - SP
 * [TDC São Paulo](https://thedevconf.com/tdc/2026/sao-paulo/) | **September 23-25** | Hybrid: Online + São Paulo - SP
+* [IA Conference Brasil](https://www.iaconferencebrasil.com.br/) | **September 24** | São Paulo - SP
 * [Mercado Livre Experience](https://mercadolivreexperience.mercadolivre.com.br/) | **September 24-25** | São Paulo - SP
 * [UXConf BR](https://www.uxconf.com.br/) | **September 25-26** | Porto Alegre - RS
+* [DevOpsDays Belo Horizonte](https://devopsdays.org/events/2026-belo-horizonte/welcome/) | **September 26** | Belo Horizonte - MG
 * [Front in Vale](https://frontinvale.com.br/) | **September TBD** | São José dos Campos - SP
 
 #### October
 
+* [Cyber Security Summit Brasil](https://cybersecuritysummit.com.br/) | **October 5-6** | São Paulo - SP
 * [Futurecom](https://www.futurecom.com.br/) | **October 6-8** | São Paulo - SP
 * [Universo TOTVS](https://universo.totvs.com/) | **October 13-14** | São Paulo - SP
 * [Python Brasil 2026](https://2026.pythonbrasil.org.br/) | **October 14-19** | Florianópolis - SC
 * [PHPeste](https://phpeste.dev/) | **October 16-17** | São Luís - MA
+* [DevOpsDays Juiz de Fora](https://devopsdays.org/events/2026-juiz-de-fora/welcome/) | **October 17** | Juiz de Fora - MG
+* [DevOpsDays Florianópolis](https://devopsdays.org/events/2026-florianopolis/welcome/) | **October 24** | Florianópolis - SC
+* [Data Science Summit Brasil](https://dssbr.com.br/) | **October 27-29** | Curitiba - PR
 
 #### November
 
